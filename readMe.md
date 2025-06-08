@@ -1,5 +1,5 @@
 # Magdamit Rovic Jupyter Notebook - Repository
-**Version: 6.7.2025 - 13:08**
+**Version: 6.9.2025 - 06:08**
 
 ## Purpose
 I store this repository because managing a flash drive across multiple locations is frustrating.
@@ -15,3 +15,7 @@ I store this repository because managing a flash drive across multiple locations
 
 ## The Struggle
 Keeping track of files in three different places is exactly the definition of pain.
+
+### New Update
+- Enhance some names
+- Added previous activities (excel)
