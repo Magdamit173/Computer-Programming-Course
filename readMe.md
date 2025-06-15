@@ -1,5 +1,5 @@
 # Magdamit Rovic Jupyter Notebook - Repository
-**Version: 6.9.2025 - 06:08**
+**Version: 6.15.2025 - 14:41**
 
 ## Purpose
 I store this repository because managing a flash drive across multiple locations is frustrating.
